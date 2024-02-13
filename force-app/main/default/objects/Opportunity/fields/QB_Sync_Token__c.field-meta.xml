@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>QB_Sync_Token__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>The QuickBooks Sync Token. This needs to stay in sync with QuickBooks in order to push information to QuickBooks.</inlineHelpText>
+    <label>Sync Token</label>
+    <length>10</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
